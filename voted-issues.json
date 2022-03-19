@@ -55,7 +55,7 @@
       "Case insensitive lenient special name support?"
     ],
     [
-      2,
+      3,
       "<a href='https://github.com/SciTools/iris/issues/4448'>#4448</a>",
       "<a href='https://github.com/hdyson'>@hdyson</a>",
       "Poor performance with concatenating and saving netCDF files"
@@ -217,7 +217,7 @@
       "Clarify laziness status of all iris functions"
     ],
     [
-      2,
+      3,
       "<a href='https://github.com/SciTools/iris/issues/3234'>#3234</a>",
       "<a href='https://github.com/kaedonkers'>@kaedonkers</a>",
       "Unify merge and concatenate"
