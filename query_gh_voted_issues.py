@@ -114,7 +114,7 @@ with open(OUTPUT_JSON, "w") as f:
 voted_badge = {
   "schemaVersion": 1,
   "label": "Voted Issues",
-  "message": total_issues_only,
+  "message": str(total_issues_only),
   "color": "green"
 }
 
