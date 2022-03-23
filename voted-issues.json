@@ -25,6 +25,18 @@
       "Document CML auto-generation"
     ],
     [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/4538'>#4538</a>",
+      "<a href='https://github.com/wjbenfold'>@wjbenfold</a>",
+      "Degraded PP load times in later Iris versions"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/4526'>#4526</a>",
+      "<a href='https://github.com/kaedonkers'>@kaedonkers</a>",
+      "Converting a cube to a Pandas dataframe "
+    ],
+    [
       3,
       "<a href='https://github.com/SciTools/iris/issues/4523'>#4523</a>",
       "<a href='https://github.com/SimonPeatman'>@SimonPeatman</a>",
@@ -55,7 +67,7 @@
       "Case insensitive lenient special name support?"
     ],
     [
-      3,
+      4,
       "<a href='https://github.com/SciTools/iris/issues/4448'>#4448</a>",
       "<a href='https://github.com/hdyson'>@hdyson</a>",
       "Poor performance with concatenating and saving netCDF files"
@@ -67,7 +79,7 @@
       "A Dataless Cube"
     ],
     [
-      12,
+      13,
       "<a href='https://github.com/SciTools/iris/issues/4446'>#4446</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
       "Lenient Cube Merge"
