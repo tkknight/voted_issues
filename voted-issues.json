@@ -103,7 +103,7 @@
       "Applying logical OR to a constraint \"fails\" silently"
     ],
     [
-      1,
+      2,
       "<a href='https://github.com/SciTools/iris/issues/4335'>#4335</a>",
       "<a href='https://github.com/wjbenfold'>@wjbenfold</a>",
       "Additional cubeList.merge capability to extend AuxCoords and AncillaryVariables"
@@ -161,12 +161,6 @@
       "<a href='https://github.com/SciTools/iris/issues/3893'>#3893</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
       "Extend iris.common.resolve.Resolve to implicitly use target cube data"
-    ],
-    [
-      1,
-      "<a href='https://github.com/SciTools/iris/issues/3840'>#3840</a>",
-      "<a href='https://github.com/tkknight'>@tkknight</a>",
-      "Adopt numpy docstrings"
     ],
     [
       3,
