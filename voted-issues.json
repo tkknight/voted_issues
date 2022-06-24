@@ -1,6 +1,12 @@
 {
   "data": [
     [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/4812'>#4812</a>",
+      "<a href='https://github.com/nhsavage'>@nhsavage</a>",
+      "Allow creation of area weights for Lambert Conformal Grids"
+    ],
+    [
       4,
       "<a href='https://github.com/SciTools/iris/issues/4799'>#4799</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
@@ -53,6 +59,12 @@
       "<a href='https://github.com/SciTools/iris/issues/4673'>#4673</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
       "MeshCoord metadata should include the \"mesh\" property"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/4672'>#4672</a>",
+      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
+      "Can't collapse over a mesh dimension"
     ],
     [
       9,
