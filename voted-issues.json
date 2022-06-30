@@ -151,6 +151,12 @@
       "Additional cubeList.merge capability to extend AuxCoords and AncillaryVariables"
     ],
     [
+      2,
+      "<a href='https://github.com/SciTools/iris/issues/4197'>#4197</a>",
+      "<a href='https://github.com/bouweandela'>@bouweandela</a>",
+      "Extract region from a cube with 2D latitude/longitude coordinates"
+    ],
+    [
       1,
       "<a href='https://github.com/SciTools/iris/issues/4190'>#4190</a>",
       "<a href='https://github.com/bouweandela'>@bouweandela</a>",
@@ -203,12 +209,6 @@
       "<a href='https://github.com/SciTools/iris/issues/3893'>#3893</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
       "Extend iris.common.resolve.Resolve to implicitly use target cube data"
-    ],
-    [
-      3,
-      "<a href='https://github.com/SciTools/iris/issues/3835'>#3835</a>",
-      "<a href='https://github.com/bjlittle'>@bjlittle</a>",
-      "Adopt py.test "
     ],
     [
       2,
@@ -277,7 +277,7 @@
       "Unify merge and concatenate"
     ],
     [
-      1,
+      3,
       "<a href='https://github.com/SciTools/iris/issues/3048'>#3048</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
       "unpin numpy legacy printing"
