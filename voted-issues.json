@@ -2,15 +2,15 @@
   "data": [
     [
       1,
-      "<a href='https://github.com/SciTools/iris/issues/4915'>#4915</a>",
-      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
-      "Better implementation of Aggregators"
+      "<a href='https://github.com/SciTools/iris/issues/4943'>#4943</a>",
+      "<a href='https://github.com/tinyendian'>@tinyendian</a>",
+      "Enable lazy evaluation in iris.analysis.cartography.rotate_winds"
     ],
     [
       1,
-      "<a href='https://github.com/SciTools/iris/issues/4912'>#4912</a>",
-      "<a href='https://github.com/stephenworsley'>@stephenworsley</a>",
-      "Unpin shapely"
+      "<a href='https://github.com/SciTools/iris/issues/4915'>#4915</a>",
+      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
+      "Better implementation of Aggregators"
     ],
     [
       1,
