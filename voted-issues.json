@@ -1,13 +1,19 @@
 {
   "data": [
     [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/4994'>#4994</a>",
+      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
+      "Xarray bridge"
+    ],
+    [
       3,
       "<a href='https://github.com/SciTools/iris/issues/4979'>#4979</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
       "Test more types of NAME file"
     ],
     [
-      4,
+      5,
       "<a href='https://github.com/SciTools/iris/issues/4959'>#4959</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
       "Add user advice on Dask \"best practices\" "
@@ -167,12 +173,6 @@
       "<a href='https://github.com/SciTools/iris/issues/4446'>#4446</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
       "Lenient Cube Merge"
-    ],
-    [
-      1,
-      "<a href='https://github.com/SciTools/iris/issues/4382'>#4382</a>",
-      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
-      "Make a statement about adoption of type hints in Iris 3.2"
     ],
     [
       2,
