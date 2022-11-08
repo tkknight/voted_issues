@@ -1,6 +1,12 @@
 {
   "data": [
     [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/5050'>#5050</a>",
+      "<a href='https://github.com/schlunma'>@schlunma</a>",
+      "Merging attributes of different cubes before concatenation/merging"
+    ],
+    [
       21,
       "<a href='https://github.com/SciTools/iris/issues/5003'>#5003</a>",
       "<a href='https://github.com/bayliffe'>@bayliffe</a>",
@@ -323,6 +329,12 @@
       "<a href='https://github.com/SciTools/iris/issues/3234'>#3234</a>",
       "<a href='https://github.com/kaedonkers'>@kaedonkers</a>",
       "Unify merge and concatenate"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/3172'>#3172</a>",
+      "<a href='https://github.com/DPeterK'>@DPeterK</a>",
+      "Allow cubes to share data"
     ],
     [
       3,
