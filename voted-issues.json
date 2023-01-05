@@ -2,12 +2,18 @@
   "data": [
     [
       2,
+      "<a href='https://github.com/SciTools/iris/issues/5125'>#5125</a>",
+      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
+      "Cannot save non-ASCII characters to NetCDF"
+    ],
+    [
+      2,
       "<a href='https://github.com/SciTools/iris/issues/5121'>#5121</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
       "sphinx-panels package not longer maintained"
     ],
     [
-      1,
+      3,
       "<a href='https://github.com/SciTools/iris/issues/5115'>#5115</a>",
       "<a href='https://github.com/sloosvel'>@sloosvel</a>",
       "Concatenating cubes realises auxiliary coordinates."
@@ -199,6 +205,12 @@
       "Lenient Cube Merge"
     ],
     [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/4412'>#4412</a>",
+      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
+      "Cubes with string data won't save, or index"
+    ],
+    [
       2,
       "<a href='https://github.com/SciTools/iris/issues/4337'>#4337</a>",
       "<a href='https://github.com/wjbenfold'>@wjbenfold</a>",
@@ -248,15 +260,15 @@
     ],
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/4101'>#4101</a>",
+      "<a href='https://github.com/alastair-gemmell'>@alastair-gemmell</a>",
+      "Iris cannot read NetCDF4 strings stored in NetCDF variables"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/4082'>#4082</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
       "PP saving soil depths incorrectly setting LBLEV=0"
-    ],
-    [
-      6,
-      "<a href='https://github.com/SciTools/iris/issues/4039'>#4039</a>",
-      "<a href='https://github.com/stefsmeets'>@stefsmeets</a>",
-      "Which statistics in `iris.analysis` are lazy?"
     ],
     [
       2,
