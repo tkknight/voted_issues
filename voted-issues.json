@@ -1,7 +1,7 @@
 {
   "data": [
     [
-      4,
+      5,
       "<a href='https://github.com/SciTools/iris/issues/5131'>#5131</a>",
       "<a href='https://github.com/afinnen'>@afinnen</a>",
       "Iris cubes not merging for re-initialised LFRic files"
@@ -49,7 +49,7 @@
       "Allow exemptions to coordinate axis guessing on save"
     ],
     [
-      4,
+      5,
       "<a href='https://github.com/SciTools/iris/issues/4994'>#4994</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
       "Xarray bridge"
