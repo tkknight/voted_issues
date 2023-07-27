@@ -7,7 +7,7 @@
       "DOCS: Git URL formatting"
     ],
     [
-      1,
+      2,
       "<a href='https://github.com/SciTools/iris/issues/5385'>#5385</a>",
       "<a href='https://github.com/acchamber'>@acchamber</a>",
       "Add ability to mask cube from shapefile"
@@ -341,12 +341,6 @@
       "<a href='https://github.com/SciTools/iris/issues/4082'>#4082</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
       "PP saving soil depths incorrectly setting LBLEV=0"
-    ],
-    [
-      2,
-      "<a href='https://github.com/SciTools/iris/issues/3945'>#3945</a>",
-      "<a href='https://github.com/acchamber'>@acchamber</a>",
-      "No documentation on what units cube.convert_units actually converts? "
     ],
     [
       1,
