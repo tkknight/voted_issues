@@ -91,12 +91,6 @@
       "Lazy `iris.experimental.stratify.relevel`"
     ],
     [
-      7,
-      "<a href='https://github.com/SciTools/iris/issues/5175'>#5175</a>",
-      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
-      "Allow extraction with bounded time-coordinates."
-    ],
-    [
       1,
       "<a href='https://github.com/SciTools/iris/issues/5162'>#5162</a>",
       "<a href='https://github.com/stephenworsley'>@stephenworsley</a>",
