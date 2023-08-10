@@ -2,6 +2,12 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/5417'>#5417</a>",
+      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
+      "Interoperability with Gridded"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/5395'>#5395</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
       "Trial `iris.common.resolve` in CubeList.concatenate()"
@@ -71,12 +77,6 @@
       "<a href='https://github.com/SciTools/iris/issues/5318'>#5318</a>",
       "<a href='https://github.com/bouweandela'>@bouweandela</a>",
       "Cube slice operation changes the data array type"
-    ],
-    [
-      1,
-      "<a href='https://github.com/SciTools/iris/issues/5315'>#5315</a>",
-      "<a href='https://github.com/rcomer'>@rcomer</a>",
-      "cftime warnings on pp-load"
     ],
     [
       1,
