@@ -1,6 +1,18 @@
 {
   "data": [
     [
+      2,
+      "<a href='https://github.com/SciTools/iris/issues/5574'>#5574</a>",
+      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
+      "Encourage PyTest, discourage old-style, in Iris documentation"
+    ],
+    [
+      3,
+      "<a href='https://github.com/SciTools/iris/issues/5562'>#5562</a>",
+      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
+      "MeshCoord should support a coordinate system"
+    ],
+    [
       4,
       "<a href='https://github.com/SciTools/iris/issues/5541'>#5541</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
@@ -25,7 +37,7 @@
       "Experiment with community workarounds to duplicated warnings"
     ],
     [
-      5,
+      6,
       "<a href='https://github.com/SciTools/iris/issues/5486'>#5486</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
       "Link to scitools-classroom organisation"
