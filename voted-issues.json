@@ -1,6 +1,12 @@
 {
   "data": [
     [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/5589'>#5589</a>",
+      "<a href='https://github.com/HGWright'>@HGWright</a>",
+      "Document the new `ignore_axis` functionality."
+    ],
+    [
       2,
       "<a href='https://github.com/SciTools/iris/issues/5574'>#5574</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
@@ -173,12 +179,6 @@
       "<a href='https://github.com/SciTools/iris/issues/5050'>#5050</a>",
       "<a href='https://github.com/schlunma'>@schlunma</a>",
       "Merging attributes of different cubes before concatenation/merging"
-    ],
-    [
-      21,
-      "<a href='https://github.com/SciTools/iris/issues/5003'>#5003</a>",
-      "<a href='https://github.com/bayliffe'>@bayliffe</a>",
-      "Allow exemptions to coordinate axis guessing on save"
     ],
     [
       6,
