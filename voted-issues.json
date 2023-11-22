@@ -91,7 +91,7 @@
       "Trial `iris.common.resolve` in `CubeList.merge()`"
     ],
     [
-      1,
+      2,
       "<a href='https://github.com/SciTools/iris/issues/5392'>#5392</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
       "Lenient Cube Concatenate"
@@ -109,7 +109,7 @@
       "Can't collapse mesh"
     ],
     [
-      2,
+      3,
       "<a href='https://github.com/SciTools/iris/issues/5375'>#5375</a>",
       "<a href='https://github.com/acchamber'>@acchamber</a>",
       "Various Cube merge/concatenate issues"
@@ -431,12 +431,6 @@
       "<a href='https://github.com/SciTools/iris/issues/3559'>#3559</a>",
       "<a href='https://github.com/alastair-gemmell'>@alastair-gemmell</a>",
       "Improve floating point representation in generation of regular grids that use a reference point and spacings"
-    ],
-    [
-      9,
-      "<a href='https://github.com/SciTools/iris/issues/3325'>#3325</a>",
-      "<a href='https://github.com/bjlittle'>@bjlittle</a>",
-      "NetCDF global attributes vs data variable local attributes"
     ],
     [
       4,
