@@ -8,6 +8,12 @@
     ],
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/5688'>#5688</a>",
+      "<a href='https://github.com/tkknight'>@tkknight</a>",
+      "DOCS: Add info about how ruff is used."
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/5683'>#5683</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
       "Include helpful error if non-identical meshes have prevented concatenation or merging"
@@ -325,7 +331,7 @@
       "Fully adopt pathlib.PurePath for file paths"
     ],
     [
-      4,
+      5,
       "<a href='https://github.com/SciTools/iris/issues/4508'>#4508</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
       "Provide a neat way to get date strings from arrays with date units."
