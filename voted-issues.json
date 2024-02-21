@@ -19,7 +19,7 @@
       "Improve datum FUTURE warning"
     ],
     [
-      2,
+      3,
       "<a href='https://github.com/SciTools/iris/issues/5743'>#5743</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
       "Cube printout should not compute lazy scalar coordinates"
@@ -119,6 +119,18 @@
       "<a href='https://github.com/SciTools/iris/issues/5461'>#5461</a>",
       "<a href='https://github.com/stephenworsley'>@stephenworsley</a>",
       "More tolerant AreaWeighted regridding behaviour for target cells stradling the source extents"
+    ],
+    [
+      2,
+      "<a href='https://github.com/SciTools/iris/issues/5457'>#5457</a>",
+      "<a href='https://github.com/bouweandela'>@bouweandela</a>",
+      "Auxiliary coordinates created by HybridPressureFactory have huge chunks"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/5455'>#5455</a>",
+      "<a href='https://github.com/bouweandela'>@bouweandela</a>",
+      "Computational performance of `iris.cube.Cube.aggregated_by` with lazy data"
     ],
     [
       1,
