@@ -1,6 +1,18 @@
 {
   "data": [
     [
+      4,
+      "<a href='https://github.com/SciTools/iris/issues/5770'>#5770</a>",
+      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
+      "Convenience function for making a regridding target `Cube` of specified shape"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/5769'>#5769</a>",
+      "<a href='https://github.com/bblay'>@bblay</a>",
+      "Make concatenation signature public?"
+    ],
+    [
       1,
       "<a href='https://github.com/SciTools/iris/issues/5751'>#5751</a>",
       "<a href='https://github.com/stephenworsley'>@stephenworsley</a>",
@@ -13,7 +25,7 @@
       "Parallelising cubes concatenation"
     ],
     [
-      1,
+      2,
       "<a href='https://github.com/SciTools/iris/issues/5749'>#5749</a>",
       "<a href='https://github.com/hdyson'>@hdyson</a>",
       "Improve datum FUTURE warning"
@@ -355,7 +367,7 @@
       "Warn or error rather than returning None from name check in netcdf"
     ],
     [
-      6,
+      7,
       "<a href='https://github.com/SciTools/iris/issues/4447'>#4447</a>",
       "<a href='https://github.com/bjlittle'>@bjlittle</a>",
       "A Dataless Cube"
