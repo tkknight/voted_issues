@@ -1,7 +1,7 @@
 {
   "data": [
     [
-      4,
+      5,
       "<a href='https://github.com/SciTools/iris/issues/5770'>#5770</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
       "Convenience function for making a regridding target `Cube` of specified shape"
@@ -419,12 +419,6 @@
       "<a href='https://github.com/SciTools/iris/issues/4119'>#4119</a>",
       "<a href='https://github.com/stephenworsley'>@stephenworsley</a>",
       "Preserve dtype for wrap_lons"
-    ],
-    [
-      1,
-      "<a href='https://github.com/SciTools/iris/issues/4082'>#4082</a>",
-      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
-      "PP saving soil depths incorrectly setting LBLEV=0"
     ],
     [
       1,
