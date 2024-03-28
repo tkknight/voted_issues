@@ -2,6 +2,12 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/5879'>#5879</a>",
+      "<a href='https://github.com/astroDimitrios'>@astroDimitrios</a>",
+      "Add accessibility statement to the documentation"
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/5809'>#5809</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
       "Remove test file runnability"
@@ -151,7 +157,7 @@
       "Auxiliary coordinates created by HybridPressureFactory have huge chunks"
     ],
     [
-      1,
+      2,
       "<a href='https://github.com/SciTools/iris/issues/5455'>#5455</a>",
       "<a href='https://github.com/bouweandela'>@bouweandela</a>",
       "Computational performance of `iris.cube.Cube.aggregated_by` with lazy data"
