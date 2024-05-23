@@ -1,7 +1,13 @@
 {
   "data": [
     [
-      3,
+      2,
+      "<a href='https://github.com/SciTools/iris/issues/5970'>#5970</a>",
+      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
+      "Configurable colorbar in `iris.quickplot`"
+    ],
+    [
+      4,
       "<a href='https://github.com/SciTools/iris/issues/5939'>#5939</a>",
       "<a href='https://github.com/jrackham-mo'>@jrackham-mo</a>",
       "Constrained load on MeshCoord bypasses callback"
