@@ -1,7 +1,13 @@
 {
   "data": [
     [
-      3,
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/6110'>#6110</a>",
+      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
+      "Use pytest to run doctests"
+    ],
+    [
+      4,
       "<a href='https://github.com/SciTools/iris/issues/6108'>#6108</a>",
       "<a href='https://github.com/mo-tgeddes'>@mo-tgeddes</a>",
       "Comparisons for FormatAgent()"
