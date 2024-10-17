@@ -1,6 +1,12 @@
 {
   "data": [
     [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/6178'>#6178</a>",
+      "<a href='https://github.com/jrackham-mo'>@jrackham-mo</a>",
+      "`valid_range` attribute is unsafely cast on `NETCDF4_CLASSIC` save"
+    ],
+    [
       2,
       "<a href='https://github.com/SciTools/iris/issues/6110'>#6110</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
@@ -53,12 +59,6 @@
       "<a href='https://github.com/SciTools/iris/issues/5974'>#5974</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
       "Document `iris.site_configuration`?"
-    ],
-    [
-      2,
-      "<a href='https://github.com/SciTools/iris/issues/5970'>#5970</a>",
-      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
-      "Configurable colorbar in `iris.quickplot`"
     ],
     [
       4,
