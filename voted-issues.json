@@ -2,6 +2,12 @@
   "data": [
     [
       2,
+      "<a href='https://github.com/SciTools/iris/issues/6565'>#6565</a>",
+      "<a href='https://github.com/bjlittle'>@bjlittle</a>",
+      "Extend NetCDF zlib compression to UGRID"
+    ],
+    [
+      2,
       "<a href='https://github.com/SciTools/iris/issues/6545'>#6545</a>",
       "<a href='https://github.com/stephenworsley'>@stephenworsley</a>",
       "Make Mesh documentation more obvious"
@@ -371,6 +377,12 @@
       "<a href='https://github.com/SciTools/iris/issues/5125'>#5125</a>",
       "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
       "Cannot save non-ASCII characters to NetCDF"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/5083'>#5083</a>",
+      "<a href='https://github.com/schlunma'>@schlunma</a>",
+      "Lazy SUM with 1D weights sometimes fails"
     ],
     [
       1,
