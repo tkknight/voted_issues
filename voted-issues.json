@@ -223,12 +223,6 @@
       "Remove test file runnability"
     ],
     [
-      6,
-      "<a href='https://github.com/SciTools/iris/issues/5770'>#5770</a>",
-      "<a href='https://github.com/trexfeathers'>@trexfeathers</a>",
-      "Convenience function for making a regridding target `Cube` of specified shape"
-    ],
-    [
       1,
       "<a href='https://github.com/SciTools/iris/issues/5769'>#5769</a>",
       "<a href='https://github.com/bblay'>@bblay</a>",
@@ -515,12 +509,6 @@
       "<a href='https://github.com/SciTools/iris/issues/3726'>#3726</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
       "Make it easy to extract coords as separate cubes, and the reverse \"injection\""
-    ],
-    [
-      3,
-      "<a href='https://github.com/SciTools/iris/issues/3678'>#3678</a>",
-      "<a href='https://github.com/schlunma'>@schlunma</a>",
-      "Bounds of derived variable are not read correctly"
     ],
     [
       1,
