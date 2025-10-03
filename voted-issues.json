@@ -1,6 +1,12 @@
 {
   "data": [
     [
+      2,
+      "<a href='https://github.com/SciTools/iris/issues/6734'>#6734</a>",
+      "<a href='https://github.com/jrackham-mo'>@jrackham-mo</a>",
+      "Maintain laziness with `iris.analysis.calculus.differentiate`"
+    ],
+    [
       3,
       "<a href='https://github.com/SciTools/iris/issues/6617'>#6617</a>",
       "<a href='https://github.com/jrackham-mo'>@jrackham-mo</a>",
@@ -23,12 +29,6 @@
       "<a href='https://github.com/SciTools/iris/issues/6590'>#6590</a>",
       "<a href='https://github.com/HGWright'>@HGWright</a>",
       "Add in-place cube operation switch"
-    ],
-    [
-      4,
-      "<a href='https://github.com/SciTools/iris/issues/6565'>#6565</a>",
-      "<a href='https://github.com/bjlittle'>@bjlittle</a>",
-      "Extend NetCDF zlib compression to UGRID"
     ],
     [
       3,
