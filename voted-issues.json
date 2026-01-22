@@ -2,6 +2,12 @@
   "data": [
     [
       1,
+      "<a href='https://github.com/SciTools/iris/issues/6902'>#6902</a>",
+      "<a href='https://github.com/ukmo-ccbunney'>@ukmo-ccbunney</a>",
+      "Reinstate `geovista` in py314 lockfile when `pyvista` is py314 compatible."
+    ],
+    [
+      1,
       "<a href='https://github.com/SciTools/iris/issues/6855'>#6855</a>",
       "<a href='https://github.com/david-bentley'>@david-bentley</a>",
       "Coordinate system agnostic region extraction"
@@ -377,6 +383,12 @@
       "<a href='https://github.com/SciTools/iris/issues/5257'>#5257</a>",
       "<a href='https://github.com/larsbarring'>@larsbarring</a>",
       "Handling of Standard name aliases"
+    ],
+    [
+      3,
+      "<a href='https://github.com/SciTools/iris/issues/5162'>#5162</a>",
+      "<a href='https://github.com/stephenworsley'>@stephenworsley</a>",
+      "Create generic regridder from user provided weights."
     ],
     [
       2,
