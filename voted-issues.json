@@ -91,12 +91,6 @@
       "Add roadmap to documentation"
     ],
     [
-      2,
-      "<a href='https://github.com/SciTools/iris/issues/6490'>#6490</a>",
-      "<a href='https://github.com/mo-DanCubbon'>@mo-DanCubbon</a>",
-      "Search Highlighting Illegible In Dark Mode"
-    ],
-    [
       1,
       "<a href='https://github.com/SciTools/iris/issues/6488'>#6488</a>",
       "<a href='https://github.com/ESadek-MO'>@ESadek-MO</a>",
@@ -143,6 +137,12 @@
       "<a href='https://github.com/SciTools/iris/issues/6316'>#6316</a>",
       "<a href='https://github.com/pp-mo'>@pp-mo</a>",
       "Simplify netcdf loading rules/actions"
+    ],
+    [
+      1,
+      "<a href='https://github.com/SciTools/iris/issues/6309'>#6309</a>",
+      "<a href='https://github.com/pp-mo'>@pp-mo</a>",
+      "Fix iris handling of netcdf character array variables"
     ],
     [
       3,
